@@ -27,3 +27,4 @@ Everything i did and am doing at 42 :)
 | ft_irc/webserv | []() | |
 | Exam 06 | []() | |
 | ft_transcendence | []() | |
+| ... | | |

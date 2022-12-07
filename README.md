@@ -7,7 +7,7 @@ Everything i did and am doing at 42 :)
 | Project | Repo | Bonus |
 | :--------------:| :----------:| :----------:|
 | Libft | [125%](https://github.com/JustShush/42_libft) | [✅](https://github.com/JustShush/42_libft/tree/main/bonus) |
-| Printf | [100%](https://github.com/JustShush/42_printf) | [❌](https://github.com/JustShush/42_printf/tree/main/bonus) |
+| Printf | [100%](https://github.com/JustShush/42_printf) | [❌](https://github.com/JustShush/42_printf/) |
 | Get Next Line | []() | ❌ |
 | BornToBeRoot | []() | ❌ |
 | Exam 02 | []() | ❌ |

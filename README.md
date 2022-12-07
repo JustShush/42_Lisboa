@@ -11,3 +11,19 @@ Everything i did and am doing at 42 :)
 | Get Next Line | []() | ❌ |
 | BornToBeRoot | []() | ❌ |
 | Exam 02 | []() | ❌ |
+| So_long | []() | |
+| Push_swap | []() | |
+| Minitalk/pipex | []() |
+| Exam 03 | []() | |
+| Minishell | []() | |
+| Philosophers | []() | |
+| Exam 04 | []() | |
+| Cub3d/miniRT | []() | |
+| NetPractice | []() | |
+| CPP | []() | |
+| Exam 05 | []() | |
+| Inception | []() | |
+| ft_containers | []() | |
+| ft_irc/webserv | []() | |
+| Exam 06 | []() | |
+| ft_transcendence | []() | |

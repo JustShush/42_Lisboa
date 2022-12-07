@@ -6,7 +6,7 @@ Everything i did and am doing at 42 :)
 
 | Project | Grade | Bonus |
 | :--------------:| :----------:| :----------:|
-| [Libft](https://github.com/JustShush/42_libft) | 125% | [✅](https://github.com/JustShush/42_libft/tree/main/bonus) |
+| [Libft](https://github.com/JustShush/42_libft) | 125% | [:heavy_check_mark:](https://github.com/JustShush/42_libft/tree/main/bonus) |
 | [Printf](https://github.com/JustShush/42_printf) | 100% | [❌](https://github.com/JustShush/42_printf) |
 | Get Next Line | []() | ❌ |
 | BornToBeRoot | []() | ❌ |

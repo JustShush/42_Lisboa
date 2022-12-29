@@ -35,22 +35,22 @@ Everything i did and am doing at 42 :)
     <td width="77"><b>Bonus</b></td>
   </tr>
   <tr align="center">
-    <td align="left">Libft</td>
+    <td align="center">Libft</td>
     <td><a href="./Rank_1/Libft">125%</a></td>
     <td><a href="./Rank_1/Libft/bonus">✔️</a></td>
   </tr>
   <tr align="center">
-    <td align="left">ft_printf</td>
+    <td align="center">ft_printf</td>
     <td><a href="./Rank_1/Printf">100%</a></td>
     <td>❌</td>
   </tr>
   <tr align="center">
-    <td align="left">get_next_line</td>
+    <td align="center">get_next_line</td>
     <td><a href="./Rank_1/gnl">100%</a></td>
     <td>❌</td>
   </tr>
   <tr align="center">
-    <td align="left">Born2beRoot</td>
+    <td align="center">Born2beRoot</td>
     <td><a href="./Rank_1/Born2beRoot">...</a></td>
     <td></td>
   </tr>

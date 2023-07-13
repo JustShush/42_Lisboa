@@ -67,17 +67,17 @@ Everything i did and am doing at 42 :)
   </tr>
   <tr align="center">
     <td align="center">PushSwap</td>
-    <td><a href="./Rank_1/Born2beRoot">84%</a></td>
+    <td><a href="./Rank_1/PushSwap">84%</a></td>
     <td>❌</td>
   </tr>
   <tr align="center">
     <td align="center">Pipex</td>
-    <td><a href="./Rank_1/Born2beRoot">...</a></td>
+    <td><a href="./Rank_1/Pipex">...</a></td>
     <td>❌</td>
   </tr>
   <tr align="center">
     <td align="center">So Long</td>
-    <td><a href="./Rank_1/Born2beRoot">...</a></td>
+    <td><a href="./Rank_1/SoLong">...</a></td>
     <td>❌</td>
   </tr>
 </table>

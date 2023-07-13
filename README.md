@@ -9,7 +9,7 @@ Everything i did and am doing at 42 :)
   <td>
     &nbsp;1. &nbsp;<a href="#rank-1">Rank_1</a><br/>
   </td>
-<!--  <td>
+<td>
     &nbsp;1. &nbsp;<a href="#rank-2">Rank_2</a><br/>
 <!--  </td>
   <td>
@@ -26,11 +26,12 @@ Everything i did and am doing at 42 :)
   </td> -->
 </table>
 <br/>
+<!-- ❌ ✔️ -->
 
 ## Rank 1
 <table>
   <tr>
-    <td width="150"><a href="./Rank_1"><b>Project</b></a></td>
+    <td width="150"><a href="./Rank_1"><b>Projects</b></a></td>
     <td width="77"><b>Grade</b></td>
     <td width="77"><b>Bonus</b></td>
   </tr>
@@ -51,26 +52,40 @@ Everything i did and am doing at 42 :)
   </tr>
   <tr align="center">
     <td align="center">Born2beRoot</td>
-    <td><a href="./Rank_1/Born2beRoot">...</a></td>
-    <td></td>
+    <td><a href="./Rank_1/Born2beRoot">106%</a></td>
+    <td>✔️</td>
   </tr>
 </table>
 <br/>
 
-<!--
 ## Rank 2
 <table>
   <tr>
-    <th><a href="./Rank_2"><b>Project</b></a></th>
-    <th><b>Grade</b></th>
-    <th><b>Bonus</b></th>
+    <th width="150"><a href="./Rank_2"><b>Projects</b></a></th>
+    <th width="77"><b>Grade</b></th>
+    <th width="77"><b>Bonus</b></th>
+  </tr>
+  <tr align="center">
+    <td align="center">PushSwap</td>
+    <td><a href="./Rank_1/Born2beRoot">84%</a></td>
+    <td>❌</td>
+  </tr>
+  <tr align="center">
+    <td align="center">Pipex</td>
+    <td><a href="./Rank_1/Born2beRoot">...</a></td>
+    <td>❌</td>
+  </tr>
+  <tr align="center">
+    <td align="center">So Long</td>
+    <td><a href="./Rank_1/Born2beRoot">...</a></td>
+    <td>❌</td>
   </tr>
 </table>
 <br/>
-## Rank 3
+<!-- ## Rank 3
 <table>
   <tr>
-    <th><a href="./Rank_3"><b>Project</b></a></th>
+    <th><a href="./Rank_3"><b>Projects</b></a></th>
     <th><b>Grade</b></th>
     <th><b>Bonus</b></th>
   </tr>
@@ -79,7 +94,7 @@ Everything i did and am doing at 42 :)
 ## Rank 4
 <table>
   <tr>
-    <th><a href="./Rank_4"><b>Project</b></a></th>
+    <th><a href="./Rank_4"><b>Projects</b></a></th>
     <th><b>Grade</b></th>
     <th><b>Bonus</b></th>
   </tr>
@@ -88,7 +103,7 @@ Everything i did and am doing at 42 :)
 ## Rank 5
 <table>
   <tr>
-    <th><a href="./Rank_5"><b>Project</b></a></th>
+    <th><a href="./Rank_5"><b>Projects</b></a></th>
     <th><b>Grade</b></th>
     <th><b>Bonus</b></th>
   </tr>
@@ -97,7 +112,7 @@ Everything i did and am doing at 42 :)
 ## Rank 6
 <table>
   <tr>
-    <th><a href="./Rank_6"><b>Project</b></a></th>
+    <th><a href="./Rank_6"><b>Projects</b></a></th>
     <th><b>Grade</b></th>
     <th><b>Bonus</b></th>
   </tr>
